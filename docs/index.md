@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+---
+template: home.html
+title: AU915 LoRaWAN - Welcome
+---
+# AU915 LoRaWAN 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the AU915 LoRaWAN Discord Community docs.
 
-## Commands
+This site is being used to document and promote the use of public LoRaWAN networks. It is aimed at assisting users with resources on various devices and configurations.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+To join the community please use this [Discord link](https://discord.gg/GaXCnK4w).
