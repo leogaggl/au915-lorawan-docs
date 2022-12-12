@@ -5,3 +5,6 @@
 ## Milesight UG65
 
 ## Milesight UG67H
+
+
+## Milesight UG67
