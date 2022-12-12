@@ -1,1 +1,3 @@
-site_name: My Docs
+site_name: AU915 LoRaWAN
+theme:
+  name: material
