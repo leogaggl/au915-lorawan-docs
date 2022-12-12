@@ -1,5 +1,4 @@
 ---
-template: home.html
 title: AU915 LoRaWAN - Welcome
 ---
 # AU915 LoRaWAN 
