@@ -1,10 +1,18 @@
-# Milesight Gateways
+# Milesight LoRaWAN Gateways
 
-## Milesight UG65H
-
-## Milesight UG65
-
-## Milesight UG67H
+## Standard LoRaWAN
 
 
-## Milesight UG67
+
+### Milesight UG65
+
+### Milesight UG67
+
+## Helium Gateways
+
+
+### Milesight UG65H
+
+### Milesight UG67H
+
+
