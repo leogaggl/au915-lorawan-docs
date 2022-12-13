@@ -10,13 +10,13 @@ Other freqency bands (all AU915 sub-bands and AS923-1) are supported but not enc
 
 ### Roaming
 
-Rather than roaming (in the lock-in sence of private operators) The Things Network is using a more flexible packet broker (forwarding) model. The [Packet Broker]() is Open Source and a cloud broker is maintained by The Things Industries
+Rather than roaming (in the lock-in sence of private operators) The Things Network is using a more flexible packet broker (forwarding) model ([^1]). The [Packet Broker]() is Open Source and a cloud broker is maintained by The Things Industries
 
 ## Helium
 Helium started to operate commercially available gateways from May 2021 onwards and had some explosive growth until mid-way through 2022. 
 Growth on the network has come to a halt in the later parts of 2022 and the amount of Helium online gateways (or hotspots as they are referred to by Helium) continues to decrease.
 
-In mid November 2022 Helium Foundation decided to implement an unfinished and untested "dual plan" which has caused significant disruption across the region (NZ and other Oceania neighbours were also affected).
+In mid November 2022 Helium Foundation decided to implement an unfinished and untested "dual plan" which has caused significant disruption across the region (NZ and other Oceania neighbours were also affected). ([^2]),([^3]),([^4]),([^5])
 
 The refusal to roll-back this change which was made against the 
 
@@ -29,6 +29,13 @@ One of the missions of the AU915 LoRaWAN Community is to establish an Australian
 Please join our Discord if you are interested and able to contribute.
 
 ## Resources
- - LoRaWAN Roaming vs Forwarding [https://www.linkedin.com/pulse/5-x-why-lorawan-roaming-dead-arrival-johan-stokking/](https://www.linkedin.com/pulse/5-x-why-lorawan-roaming-dead-arrival-johan-stokking/)
- - Initial community meeting on AU frequency change
- - Formal Town Hall Meeting recording 
+
+[^1]: LoRaWAN Roaming vs Forwarding [https://www.linkedin.com/pulse/5-x-why-lorawan-roaming-dead-arrival-johan-stokking/](https://www.linkedin.com/pulse/5-x-why-lorawan-roaming-dead-arrival-johan-stokking/)
+
+[^2]: Initial community meeting on AU frequency change [https://www.youtube.com/watch?v=dC7uTf0LZUE](https://www.youtube.com/watch?v=dC7uTf0LZUE)
+
+[^3]: HIP-45 formal community feedback [https://github.com/dewi-alliance/hplans/pull/28](https://github.com/dewi-alliance/hplans/pull/28)
+
+[^4]: Formal Town Hall Meeting recording asd part of HIP-45 [https://www.youtube.com/watch?v=xb_ybCt7zOU](https://www.youtube.com/watch?v=xb_ybCt7zOU)
+
+[^5]: State of the Network - down under edition [https://www.youtube.com/watch?v=6fOt1WM5raw](https://www.youtube.com/watch?v=6fOt1WM5raw)
