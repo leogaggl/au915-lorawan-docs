@@ -10,7 +10,7 @@ Other freqency bands (all AU915 sub-bands and AS923-1) are supported but not enc
 
 ### Roaming
 
-Rather than roaming (in the lock-in sence of private operators) The Things Network is using a more flexible packet broker (forwarding) model[^1]. The [Packet Broker]() is Open Source and a cloud broker is maintained by The Things Industries
+Rather than roaming (in the lock-in sense of the private operators) The Things Network is using a more flexible packet broker (forwarding) model[^1]. The [Packet Broker]() is Open Source and a cloud broker is maintained by The Things Industries
 
 ## Helium
 Helium started to operate commercially available gateways from May 2021 onwards and had some explosive growth until mid-way through 2022. 
@@ -19,6 +19,7 @@ Growth on the network has come to a halt in the later parts of 2022 and the amou
 In mid November 2022 Helium Foundation decided to implement an unfinished and untested "dual plan" which has caused significant disruption across the region (NZ and other Oceania neighbours were also affected).[^2],[^3],[^4],[^5]
 
 The refusal to roll-back this change and implement once the work can be completed and properly tested has resulted in the exodus of a number of gateway operators.
+
 Default Frequency Band: AS923-1 (with supposed support of AU915 FSB6) since mid November 2022 (AU915 FSB2 prior to that date).
 Roaming: [https://docs.helium.com/lorawan-on-helium/lorawan-roaming-on-helium/](https://docs.helium.com/lorawan-on-helium/lorawan-roaming-on-helium/). Currently there are roaming agreements with Actility and SENet in place.
 
@@ -26,7 +27,7 @@ Roaming: [https://docs.helium.com/lorawan-on-helium/lorawan-roaming-on-helium/](
 
 One of the missions of the AU915 LoRaWAN Community is to establish an Australian managed alternative. There is several options being considered at this stage.
 
-Please join our Discord if you are interested and able to contribute.
+Please [join our Discord](https://discord.gg/GaXCnK4w) if you are interested and able to contribute.
 
 ## Resources
 
