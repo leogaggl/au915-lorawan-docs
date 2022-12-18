@@ -30,4 +30,4 @@ Unlike the standard LoRaWAN gateways above SSH access (prior to Firmware 61.0.0.
 Unlike a lot of other Helium manufacturers Milesight gateways can be easily changed via the normal Web Admin UI or remote managment.
 Just disable the Helium forwarder and add another forwarder.
 
-![Milesight Forwarder Config!](/docs/assets/images/milesight_forwarder.jpg)
+![Milesight Forwarder Config!](../assets/images/milesight_forwarder.jpg)
