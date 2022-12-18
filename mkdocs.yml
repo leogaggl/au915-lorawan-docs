@@ -1,3 +1,5 @@
 site_name: AU915 LoRaWAN
 theme:
   name: material
+markdown_extensions:
+  - footnotes
