@@ -51,7 +51,7 @@ ThingsIX main net is due to launch in December 2022 and will have a router that 
 
 ## Alternative Public Networks
 
-One of the missions of the AU915 LoRaWAN Community is to establish an Australian managed alternative. There is several options being considered at this stage.
+One of the missions of the AU915 LoRaWAN Community is to establish an Australian managed alternative. There are several options being considered at this stage.
 
 Please [join our Discord](https://discord.gg/GaXCnK4w) if you are interested and able to contribute.
 
