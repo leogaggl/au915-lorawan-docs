@@ -45,9 +45,7 @@ ThingsIX main net is due to launch in December 2022 and will have a router that 
 
 **Default Frequency Band**: AU915 FSB2
 
-**Governance**: ThingsIX Public Network is governed by ThingsIX Foundation, an Amsterdam NL based not-for-profit body.
-
-
+**Governance**: ThingsIX Public Network is governed by ThingsIX Foundation, an Eindhoven NL based not-for-profit body.
 
 ## Alternative Public Networks
 
