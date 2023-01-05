@@ -1,6 +1,6 @@
 site_name: AU915 LoRaWAN
 theme:
-  name: material
+  name: readthedocs
 markdown_extensions:
   - footnotes
   - tables
