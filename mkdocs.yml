@@ -1,3 +1,4 @@
 site_name: AU915 LoRaWAN
 theme:
   name: material
+use_directory_urls: false
