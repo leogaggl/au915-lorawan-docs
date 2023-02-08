@@ -23,12 +23,15 @@ In mid November 2022 Helium Foundation decided to implement an unfinished and un
 
 The refusal to roll-back this change and implement once the work can be completed and properly tested has resulted in the exodus of a number of gateway operators.
 
-Another problem with Helium (specially in Australia) is massive "gaming clusters" which are fraudulent operators (mostly operating from China) pretending to be located in Australia. Helium has implemented a denylist which has grown to over 128K by December 2022 (roughly 13 percent of all gateways). However, the problem continues with these clusters continuing to move to avoid detection.
+Another problem with Helium (specially in Australia) is massive "gaming clusters" which are fraudulent operators (mostly operating from China) pretending to be located in Australia. Helium has implemented a denylist which has grown to over 139K by December 2022 (roughly 14 percent of all gateways worldwide). However, the problem continues with these clusters moving to avoid detection.
 
 **Default Frequency Band**: AS923-1 (with supposed support of AU915 FSB6) since mid November 2022 (AU915 FSB2 prior to that date).
-Roaming: [https://docs.helium.com/lorawan-on-helium/lorawan-roaming-on-helium/](https://docs.helium.com/lorawan-on-helium/lorawan-roaming-on-helium/). Currently there are roaming agreements with Actility and SENet in place.
 
-**Governance**: The Helium Network is supposedly governed by the Helium Foundation, a US based not-for-profit body. However, the reality is that this body is controlled
+**Governance**: The Helium Network is supposedly governed by the Helium Foundation, a US based not-for-profit body. However, the reality is that this body has never been effective and remains controlled by a handful of people closely linked to Nova Labs (the company that started Helium) founders and related venture capital companies.
+
+### Roaming
+
+[https://docs.helium.com/lorawan-on-helium/lorawan-roaming-on-helium/](https://docs.helium.com/lorawan-on-helium/lorawan-roaming-on-helium/). Currently there are roaming agreements with Actility and SENet in place.
 
 ## ThingsIX
 
@@ -42,11 +45,11 @@ ThingsIX main net is due to launch in December 2022 and will have a router that 
 
 **Default Frequency Band**: AU915 FSB2
 
-**Governance**: ThingsIX Public Network is governed by ThingsIX Foundation, an Amsterdam NL based not-for-profit body.
+**Governance**: ThingsIX Public Network is governed by ThingsIX Foundation, an Eindhoven NL based not-for-profit body.
 
 ## Alternative Public Networks
 
-One of the missions of the AU915 LoRaWAN Community is to establish an Australian managed alternative. There is several options being considered at this stage.
+One of the missions of the AU915 LoRaWAN Community is to establish an Australian managed alternative. There are several options being considered at this stage.
 
 Please [join our Discord](https://discord.gg/GaXCnK4w) if you are interested and able to contribute.
 

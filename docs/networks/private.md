@@ -15,7 +15,7 @@
 ## Ventia
 
 - [https://www.ventia.com/](https://www.ventia.com/)
-- LNS Provider: Actility
+- LNS Provider: Orbiwise
 - Frequency Plan: AS923-1
 
 ## Meshed
@@ -24,14 +24,14 @@
 - LNS Provider: The Things Industries (TTI)
 - Frequency Plan: AU915/AS923-1 (dual head gateways)
 
+## Fleet Space
+
+- [https://fleetspace.com/](https://fleetspace.com/)
+- LNS Provider: unknown
+- Frequency Plan: AU915
+
 ## SimplyCity
 
 - [https://simplycity.net.au/](https://simplycity.net.au/)
 - LNS Provider: Senet
-- Frequency Plan: AU915
-
-## Fleet Space
-
-- https://www.geowan.net/
-- LNS Provider: unknown
 - Frequency Plan: AU915
